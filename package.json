@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "format": "prettier --write '**/*.html'",
+    "format:check": "prettier --check '**/*.html'"
+  }
+}
